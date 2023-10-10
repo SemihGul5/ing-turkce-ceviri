@@ -1,0 +1,11 @@
+C:\PROJE\kullaniciadi-sözlük\kullaniciadi-sözlük\bin\Debug\kullaniciadi-sözlük.exe.config
+C:\PROJE\kullaniciadi-sözlük\kullaniciadi-sözlük\bin\Debug\kullaniciadi-sözlük.exe
+C:\PROJE\kullaniciadi-sözlük\kullaniciadi-sözlük\bin\Debug\kullaniciadi-sözlük.pdb
+C:\PROJE\kullaniciadi-sözlük\kullaniciadi-sözlük\obj\Debug\kullaniciadi-sözlük.csprojResolveAssemblyReference.cache
+C:\PROJE\kullaniciadi-sözlük\kullaniciadi-sözlük\obj\Debug\kullaniciadi_sözlük.Form1.resources
+C:\PROJE\kullaniciadi-sözlük\kullaniciadi-sözlük\obj\Debug\kullaniciadi_sözlük.Form2.resources
+C:\PROJE\kullaniciadi-sözlük\kullaniciadi-sözlük\obj\Debug\kullaniciadi_sözlük.Properties.Resources.resources
+C:\PROJE\kullaniciadi-sözlük\kullaniciadi-sözlük\obj\Debug\kullaniciadi-sözlük.csproj.GenerateResource.Cache
+C:\PROJE\kullaniciadi-sözlük\kullaniciadi-sözlük\obj\Debug\kullaniciadi-sözlük.exe
+C:\PROJE\kullaniciadi-sözlük\kullaniciadi-sözlük\obj\Debug\kullaniciadi-sözlük.pdb
+C:\PROJE\kullaniciadi-sözlük\kullaniciadi-sözlük\bin\Debug\dataveri.accdb

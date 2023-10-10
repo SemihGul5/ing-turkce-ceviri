@@ -1,0 +1,10 @@
+C:\PROJE\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+C:\PROJE\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\sozluking.accdb
+C:\PROJE\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+C:\PROJE\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+C:\PROJE\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csprojResolveAssemblyReference.cache
+C:\PROJE\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form1.resources
+C:\PROJE\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+C:\PROJE\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csproj.GenerateResource.Cache
+C:\PROJE\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+C:\PROJE\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb

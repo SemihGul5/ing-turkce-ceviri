@@ -1,0 +1,9 @@
+C:\PROJE\ing-tr sozluk\ing-tr sozluk\bin\Debug\ing-tr sozluk.exe.config
+C:\PROJE\ing-tr sozluk\ing-tr sozluk\bin\Debug\ing-tr sozluk.exe
+C:\PROJE\ing-tr sozluk\ing-tr sozluk\bin\Debug\ing-tr sozluk.pdb
+C:\PROJE\ing-tr sozluk\ing-tr sozluk\obj\Debug\ing-tr sozluk.csprojResolveAssemblyReference.cache
+C:\PROJE\ing-tr sozluk\ing-tr sozluk\obj\Debug\ing_tr_sozluk.Form1.resources
+C:\PROJE\ing-tr sozluk\ing-tr sozluk\obj\Debug\ing_tr_sozluk.Properties.Resources.resources
+C:\PROJE\ing-tr sozluk\ing-tr sozluk\obj\Debug\ing-tr sozluk.csproj.GenerateResource.Cache
+C:\PROJE\ing-tr sozluk\ing-tr sozluk\obj\Debug\ing-tr sozluk.exe
+C:\PROJE\ing-tr sozluk\ing-tr sozluk\obj\Debug\ing-tr sozluk.pdb
